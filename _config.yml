@@ -1,0 +1,16 @@
+# Disable Jekyll processing
+plugins: []
+markdown: kramdown
+highlighter: rouge
+
+# Site settings
+title: "Stian Lars - Developer Portfolio"
+description: "Full Stack Developer Portfolio"
+url: "https://stianlars1.github.io"
+baseurl: ""
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .git/
